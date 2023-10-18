@@ -1,0 +1,4 @@
+﻿  struct9-7-2.c
+C:\Users\ayaka\OneDrive\Desktop\truct9-7-2\truct9-7-2\struct9-7-2.c(38,7): warning C4013: 関数 'strcmp' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\ayaka\OneDrive\Desktop\truct9-7-2\truct9-7-2\struct9-7-2.c(51,2): warning C4013: 関数 'strcpy' は定義されていません。int 型の値を返す外部関数と見なします。
+  truct9-7-2.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\truct9-7-2\x64\Debug\truct9-7-2.exe
